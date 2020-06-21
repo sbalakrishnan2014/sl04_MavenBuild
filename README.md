@@ -1,6 +1,6 @@
 HelloWorld Servlet example with corresponding Dockerfile
 ##Addes line for web-hook
-##Attempt again 
+##Attempt again - Hope this works!
 
 Use Maven Build first to create war file in Target folder.
 
