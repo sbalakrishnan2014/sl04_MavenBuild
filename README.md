@@ -1,4 +1,5 @@
 HelloWorld Servlet example with corresponding Dockerfile
+##Addes line for we-hook
 
 Use Maven Build first to create war file in Target folder.
 
